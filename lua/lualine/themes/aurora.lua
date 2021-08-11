@@ -41,7 +41,7 @@ local colors = {
 
 aurora.normal = {
   -- gui parameter is optional and behaves the same way as in vim's highlight command
-  a = {bg = colors.gray, fg = colors.black, gui = 'bold'},
+  a = {bg = colors.purple, fg = colors.black, gui = 'bold'},
   b = {bg = colors.darkgray, fg = colors.lightgray},
   c = {bg = colors.black, fg = colors.lightgray}
 }
