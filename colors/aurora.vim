@@ -36,7 +36,7 @@ hi DiffAdd guifg=#5ab977 ctermfg=72 guibg=#60696b ctermbg=242 gui=NONE cterm=NON
 hi DiffChange guifg=#e39400 ctermfg=172 guibg=#60696b ctermbg=242 gui=NONE cterm=NONE
 hi DiffDelete guifg=#b53f36 ctermfg=131 guibg=#60696b ctermbg=242 gui=NONE cterm=NONE
 hi DiffText guifg=#f5c791 ctermfg=222 guibg=#60696b ctermbg=242 gui=NONE cterm=NONE
-hi Directory guifg=#0D9C94 ctermfg=36 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi Directory guifg=#62D2DB ctermfg=80 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi EndOfBuffer guifg=#9d81ba ctermfg=139 guibg=#0C0F12 ctermbg=233 gui=NONE cterm=NONE
 hi ErrorMsg guifg=#b53f36 ctermfg=131 guibg=#e6e8ee ctermbg=255 gui=NONE cterm=NONE
 hi FoldColumn guifg=#9d81ba ctermfg=139 guibg=#0C0F12 ctermbg=233 gui=NONE cterm=NONE
@@ -47,7 +47,7 @@ hi LspDiagnosticsDefaultError guifg=#b53f36 ctermfg=131 guibg=NONE ctermbg=NONE 
 hi MatchParen guifg=#ffffff ctermfg=15 guibg=#9d81ba ctermbg=139 gui=NONE cterm=NONE
 hi ModeMsg guifg=#9d81ba ctermfg=139 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi MoreMsg guifg=#9d81ba ctermfg=139 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi MsgArea guifg=#0D9C94 ctermfg=36 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi MsgArea guifg=#62D2DB ctermfg=80 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi link NonText EndOfBuffer
 hi Pmenu guifg=#e6e8ee ctermfg=255 guibg=#181a21 ctermbg=234 gui=NONE cterm=NONE
 hi PmenuSbar guifg=NONE ctermfg=NONE guibg=#9d81ba ctermbg=139 gui=NONE cterm=NONE
@@ -90,7 +90,7 @@ hi Error guifg=#b53f36 ctermfg=131 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Exception guifg=#b53f36 ctermfg=131 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Float guifg=#f5c791 ctermfg=222 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Function guifg=#5ab977 ctermfg=72 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi Identifier guifg=#0D9C94 ctermfg=36 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi Identifier guifg=#62D2DB ctermfg=80 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Ignore guifg=#b53f36 ctermfg=131 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Include guifg=#9d81ba ctermfg=139 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Keyword guifg=#9d81ba ctermfg=139 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -108,7 +108,7 @@ hi Special guifg=#9d81ba ctermfg=139 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Statement guifg=#5ab977 ctermfg=72 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi StorageClass guifg=#9d81ba ctermfg=139 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi String guifg=#f5c791 ctermfg=222 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi Structure guifg=#0D9C94 ctermfg=36 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi Structure guifg=#62D2DB ctermfg=80 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Tag guifg=#6a7b92 ctermfg=66 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Title guifg=#9d81ba ctermfg=139 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Todo guifg=#ddb566 ctermfg=179 guibg=NONE ctermbg=NONE gui=underline cterm=underline
