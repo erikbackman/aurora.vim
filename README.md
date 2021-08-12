@@ -3,6 +3,6 @@
 Inspired by Kaolin Aurora for Emacs
 (wip)
 
-![](../assets/aurora-vim.png?raw=true)
+![](../assets/aurora-vim2.png?raw=true)
 
 
