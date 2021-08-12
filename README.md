@@ -8,7 +8,7 @@ Inspired by Kaolin Aurora for Emacs
 
 # Currently "supported" languages
 
-By supported I mean languages that made sure look as I expect them to
+By supported I mean languages that I've made sure look as I expect them to
 
 - Haskell
 - yaml
