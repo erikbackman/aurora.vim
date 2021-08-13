@@ -141,4 +141,15 @@ luaStatement: '@Keyword'
 luaCond: '@Keyword'
 luaTable: '@Normal'
 
+# sh
+shConditional: '@Keyword'
+shStatement: '@Keyword'
+shOption: '@Operator'
+shTestOpr: '@Operator'
+shDerefSimple: '@Identifier'
+shVariable: '@Identifier'
+shQuote: '@String'
+shSet: '@Type'
+
+
 # PLUGINS

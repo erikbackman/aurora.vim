@@ -144,4 +144,12 @@ hi link luaFunctionBlock Function
 hi link luaStatement Keyword
 hi link luaCond Keyword
 hi link luaTable Normal
+hi link shConditional Keyword
+hi link shStatement Keyword
+hi link shOption Operator
+hi link shTestOpr Operator
+hi link shDerefSimple Identifier
+hi link shVariable Identifier
+hi link shQuote String
+hi link shSet Type
 
