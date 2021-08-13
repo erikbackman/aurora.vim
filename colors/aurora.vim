@@ -132,6 +132,7 @@ hi link haskellLineComment Comment
 hi link haskellOperators Operator
 hi link haskellType Type
 hi link haskellWhere Keyword
+hi link nixPath Type
 hi link vimGroupName Normal
 hi link yamlKeyValueDelimiter Normal
 hi yamlBlockMappingKey guifg=#9d81ba ctermfg=139 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE

@@ -121,6 +121,9 @@ haskellOperators: '@Operator'
 haskellType: '@Type'
 haskellWhere: '@Keyword'
 
+# Nix
+nixPath: '@Type'
+
 # Vim
 vimGroupName: '@Normal'
 
