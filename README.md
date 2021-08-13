@@ -4,11 +4,17 @@ Inspired by Kaolin Aurora for Emacs
 
 (**wip**)
 
-![](../assets/aurora-vim01.png?raw=true)
-
 # Currently "supported" languages
 
 By supported I mean languages that I've made sure look as I expect them to
 
-- Haskell
-- yaml
+## **Haskell**
+![](../assets/aurora-vim-01.png?raw=true)
+
+## **Nix**
+![](../assets/aurora-vim-nix.png?raw=true)
+
+## **Lua**
+![](../assets/aurora-vim-lua.png?raw=true)
+
+## **yaml**
