@@ -89,8 +89,8 @@ hi Delimiter guifg=#e6e8ee ctermfg=255 guibg=NONE ctermbg=NONE gui=NONE cterm=NO
 hi Error guifg=#b53f36 ctermfg=131 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Exception guifg=#b53f36 ctermfg=131 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Float guifg=#f5c791 ctermfg=222 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi Function guifg=#5ab977 ctermfg=72 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi Identifier guifg=#62D2DB ctermfg=80 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi Function guifg=#9d81ba ctermfg=139 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi Identifier guifg=#0D9C94 ctermfg=36 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Ignore guifg=#b53f36 ctermfg=131 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Include guifg=#9d81ba ctermfg=139 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Keyword guifg=#9d81ba ctermfg=139 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -137,4 +137,10 @@ hi link yamlKeyValueDelimiter Normal
 hi yamlBlockMappingKey guifg=#9d81ba ctermfg=139 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi link yamlFlowString String
 hi yamlFlowStringDelimiter guifg=#f5c791 ctermfg=222 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi link luaConstant Identifier
+hi link luaFunction Function
+hi link luaFunctionBlock Function
+hi link luaStatement Keyword
+hi link luaCond Keyword
+hi link luaTable Normal
 

@@ -70,8 +70,8 @@ Delimiter: 'foreground'
 Error: 'red'
 Exception: 'red'
 Float: 'yellow'
-Function: 'green'
-Identifier: 'cyan'
+Function: 'purple'
+Identifier: 'green2'
 Ignore: 'red'
 Include: 'purple'
 Keyword: 'purple'
@@ -121,7 +121,7 @@ haskellOperators: '@Operator'
 haskellType: '@Type'
 haskellWhere: '@Keyword'
 
-#Vim
+# Vim
 vimGroupName: '@Normal'
 
 # YAML
@@ -130,4 +130,11 @@ yamlBlockMappingKey: 'purple'
 yamlFlowString: '@String'
 yamlFlowStringDelimiter: 'yellow'
 
+# Lua
+luaConstant: '@Identifier'
+luaFunction: '@Function'
+luaFunctionBlock: '@Function'
+luaStatement: '@Keyword'
+luaCond: '@Keyword'
+luaTable: '@Normal'
 # PLUGINS
