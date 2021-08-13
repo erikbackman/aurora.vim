@@ -25,13 +25,13 @@ endif
 
 let g:aurora_bold = get(g:, 'aurora_bold', 0)
 
-hi ColorColumn guifg=NONE ctermfg=NONE guibg=#5ab977 ctermbg=72 gui=NONE cterm=NONE
+hi ColorColumn guifg=NONE ctermfg=NONE guibg=#2e353d ctermbg=236 gui=NONE cterm=NONE
 hi Conceal guifg=#161618 ctermfg=233 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Cursor guifg=#0C0F12 ctermfg=233 guibg=#545c5e ctermbg=240 gui=NONE cterm=NONE
-hi CursorColumn guifg=NONE ctermfg=NONE guibg=#5ab977 ctermbg=72 gui=NONE cterm=NONE
+hi CursorColumn guifg=NONE ctermfg=NONE guibg=#2e353d ctermbg=236 gui=NONE cterm=NONE
 hi link CursorIM Cursor
-hi CursorLine guifg=NONE ctermfg=NONE guibg=#5ab977 ctermbg=72 gui=NONE cterm=NONE
-hi CursorLineNr guifg=#c1c3cc ctermfg=251 guibg=#5ab977 ctermbg=72 gui=NONE cterm=NONE
+hi CursorLine guifg=NONE ctermfg=NONE guibg=#2e353d ctermbg=236 gui=NONE cterm=NONE
+hi CursorLineNr guifg=#c1c3cc ctermfg=251 guibg=#2e353d ctermbg=236 gui=NONE cterm=NONE
 hi DiffAdd guifg=#5ab977 ctermfg=72 guibg=#60696b ctermbg=242 gui=NONE cterm=NONE
 hi DiffChange guifg=#e39400 ctermfg=172 guibg=#60696b ctermbg=242 gui=NONE cterm=NONE
 hi DiffDelete guifg=#b53f36 ctermfg=131 guibg=#60696b ctermbg=242 gui=NONE cterm=NONE
@@ -54,7 +54,7 @@ hi PmenuSbar guifg=NONE ctermfg=NONE guibg=#9d81ba ctermbg=139 gui=NONE cterm=NO
 hi PmenuSel guifg=#9d81ba ctermfg=139 guibg=#0C0F12 ctermbg=233 gui=NONE cterm=NONE
 hi PmenuThumb guifg=NONE ctermfg=NONE guibg=#161618 ctermbg=233 gui=NONE cterm=NONE
 hi Question guifg=#9d81ba ctermfg=139 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi QuickFixLine guifg=#e6e8ee ctermfg=255 guibg=#5ab977 ctermbg=72 gui=NONE cterm=NONE
+hi QuickFixLine guifg=#e6e8ee ctermfg=255 guibg=#2e353d ctermbg=236 gui=NONE cterm=NONE
 hi Search guifg=#ddb566 ctermfg=179 guibg=#18181B ctermbg=234 gui=underline cterm=underline
 hi SignColumn guifg=#9d81ba ctermfg=139 guibg=#0C0F12 ctermbg=233 gui=NONE cterm=NONE
 hi SpecialKey guifg=#e39400 ctermfg=172 guibg=#0C0F12 ctermbg=233 gui=NONE cterm=NONE
