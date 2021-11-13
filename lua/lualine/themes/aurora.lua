@@ -16,33 +16,33 @@ local colors = {
 
 aurora.normal = {
 	-- gui parameter is optional and behaves the same way as in vim's highlight command
-	a = {bg = colors.gray, fg = colors.black, gui = 'bold'},
-	b = {bg = colors.darkgray, fg = colors.lightgray},
-	c = {bg = colors.black, fg = colors.lightgray}
+	a = {bg = colors.grey, fg = colors.black, gui = 'bold'},
+	b = {bg = colors.darkgrey, fg = colors.lightgrey},
+	c = {bg = colors.black, fg = colors.lightgrey}
 }
 
 aurora.insert = {
 	a = {bg = colors.green, fg = colors.black, gui = 'bold'},
-	b = {bg = colors.darkgray, fg = colors.lightgray},
-	c = {bg = colors.black, fg = colors.lightgray}
+	b = {bg = colors.darkgrey, fg = colors.lightgrey},
+	c = {bg = colors.black, fg = colors.lightgrey}
 }
 
 aurora.visual = {
 	a = {bg = colors.yellow, fg = colors.black, gui = 'bold'},
-	b = {bg = colors.darkgray, fg = colors.lightgray},
-	c = {bg = colors.black, fg = colors.lightgray}
+	b = {bg = colors.darkgrey, fg = colors.lightgrey},
+	c = {bg = colors.black, fg = colors.lightgrey}
 }
 
 aurora.replace = {
 	a = {bg = colors.purple, fg = colors.black, gui = 'bold'},
-	b = {bg = colors.darkgray, fg = colors.lightgray},
-	c = {bg = colors.black, fg = colors.lightgray}
+	b = {bg = colors.darkgrey, fg = colors.lightgrey},
+	c = {bg = colors.black, fg = colors.lightgrey}
 }
 
 aurora.command = {
 	a = {bg = colors.blue, fg = colors.black, gui = 'bold'},
-	b = {bg = colors.darkgray, fg = colors.lightgray},
-	c = {bg = colors.black, fg = colors.lightgray}
+	b = {bg = colors.darkgrey, fg = colors.lightgrey},
+	c = {bg = colors.black, fg = colors.lightgrey}
 }
 
 -- you can assign one colorscheme to another, if a colorscheme is
@@ -50,9 +50,9 @@ aurora.command = {
 aurora.terminal = aurora.normal
 
 aurora.inactive = {
-	a = {bg = colors.black, fg = colors.lightgray, gui = 'bold'},
-	b = {bg = colors.black, fg = colors.lightgray},
-	c = {bg = colors.black, fg = colors.lightgray}
+	a = {bg = colors.black, fg = colors.lightgrey, gui = 'bold'},
+	b = {bg = colors.black, fg = colors.lightgrey},
+	c = {bg = colors.black, fg = colors.lightgrey}
 }
 
 -- lualine.theme = aurora
