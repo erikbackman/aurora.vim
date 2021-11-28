@@ -14,7 +14,7 @@ Install the theme with whatever plugin manager you use:
 
 * [lualine](https://github.com/nvim-lualine/lualine.nvim)
 
-You only need `'theme' : 'spaceduck'`, but here's an example :
+You only need `'theme' : 'aurora'`, but here's an example :
 
 ```viml
 let g:lualine = {
