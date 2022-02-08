@@ -13,7 +13,7 @@ white: '#e6e8ee'
 yellow: '#f5c791'
 
 # Special
-background: '#0C0F12'
+background: '#080B0E'
 background_alt: '#181a21'
 foreground: '#e6e8ee'
 selection_background: '#2e353d'
